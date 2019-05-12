@@ -82,3 +82,8 @@ R语言
 
 2工作：定义一个感兴趣的问题、找到数据集、能否获得数据、收集数据、清理数据、探索性分析（绘制图标/划分群组）、统计预测或建模、解释结论并验证它们、撰写报告  
 主要介绍了一下会用到的工具（Rstudio，Markdown，github）
+
+### 英语
+>And at the same time **we were being told** what we were, we were being asked, "What do you want to be when you grow up?" I always thought that was an unfair queation. It **presupposes** that we can't be what we already are.
+we were being told that……过去进行时下的被动语态（我们总是被问到……）  
+presuppose v.推断
