@@ -75,8 +75,9 @@ public static void main(String[]args){} //Java
 R语言
 ===
 > “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”
-> 重要的不是批评家，而是指出强者如何绊倒的人，或行为人能做得更好的人。信用属于真正在竞技场的人；他们的脸被尘土、汗水和血迹所笼罩；他们勇敢地奋斗；谁又犯又短又一次；谁知道伟大的热情，伟大的献身精神，在一个有价值的事业上花费自己；谁在最好的时候，知道在什么地方。结束高成就的胜利，最坏的是，如果他失败了，至少在大胆地失败时失败，这样他的地位就永远不会和那些既不胜利也不失败的冷酷无情的灵魂在一起。
-数据科学家需要的能力涉及三方面：数学&统计知识；处理技巧（编程+回答问题的能力）；专业知识。  
+>> 重要的不是批评家，而是指出强者如何绊倒的人，或行为人能做得更好的人。信用属于真正在竞技场的人；他们的脸被尘土、汗水和血迹所笼罩；他们勇敢地奋斗；谁又犯又短又一次；谁知道伟大的热情，伟大的献身精神，在一个有价值的事业上花费自己；谁在最好的时候，知道在什么地方。结束高成就的胜利，最坏的是，如果他失败了，至少在大胆地失败时失败，这样他的地位就永远不会和那些既不胜利也不失败的冷酷无情的灵魂在一起。
+
+1数据科学家需要的能力涉及三方面：数学&统计知识；处理技巧（编程+回答问题的能力）；专业知识。  
 主要内容：课程简介；安装和设置不同的工具软件；数据分析的基本背景
 
 2工作：定义一个感兴趣的问题、找到数据集、能否获得数据、收集数据、清理数据、探索性分析（绘制图标/划分群组）、统计预测或建模、解释结论并验证它们、撰写报告  
