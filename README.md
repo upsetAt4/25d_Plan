@@ -85,11 +85,12 @@ R语言
 
 ### 英语
 >And at the same time ***we were being told*** what we were, we were being asked, "What do you want to be when you grow up?" I always thought that was an unfair queation. It ***presupposes*** that we can't be what we already are.
->>不知道为什么，我们总是被灌输要成为和自己不同的样子，牺牲原本的自我，来适应我们将要戴上的面具。我总是被告知要去接受别人赋予我的身份。
+>>在我们被赋予身份定位的同时，我们总是被人问“长大之后你想做什么？”我一直觉得这个问题很不公平。它预先假设了我们不能维持自己现在的样子。
 
 we were being told that……过去进行时下的被动语态（我们总是被问到……）  
 presuppose v.推断
 >We were being told that we somehow must become what we are not, sacrificing what we are to ***inherit*** the ***masquerade*** of what we will be. I was being told to accept the identity that others will give me.
+>>不知道为什么，我们总是被灌输要成为和自己不同的样子，牺牲原本的自我，来适应我们将要戴上的面具。我总是被告知要去接受别人赋予我的身份。
 
 inherit 继承  
 masquerade 伪装
